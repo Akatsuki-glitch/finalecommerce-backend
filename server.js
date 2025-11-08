@@ -10,7 +10,7 @@ const productRoutes = require("./routes/product.routes");
 const connectDb = require("./config/db");
 
 const allowedOrigins = [
-  "https://ecommerce-frontend-ruddy-kappa.vercel.app",
+  "https://it1030final.netlify.app",
   "http://localhost:5173",
 ];
 
